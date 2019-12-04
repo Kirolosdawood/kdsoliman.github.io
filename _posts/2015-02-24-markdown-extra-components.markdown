@@ -34,8 +34,8 @@ Like the [Medium](https://medium.com/) component.
 <div class="side-by-side">
     <div class="toleft">
         <img class="image" src="tarek 1.jpg" alt="Alt Text">
-        <img class="image" src="tarek 2 .jpg" alt="Alt Text">
-        <img class="image" src="tarek 3 .jpg" alt="Alt Text">
+        <img class="image" src="tarek 2.jpg" alt="Alt Text">
+        <img class="image" src="tarek 3.jpg" alt="Alt Text">
         <figcaption class="caption">Photo by John Doe</figcaption>
     </div>
 
