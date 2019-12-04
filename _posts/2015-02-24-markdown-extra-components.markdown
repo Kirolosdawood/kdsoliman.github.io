@@ -17,15 +17,10 @@ description: THyroid hormones summary with different options
 
 
 ---
-
-<div class="side-by-side">
-    <div class="toleft">
-        <img class="image" src="{{site/url}}/assets/images/tarek 1.jpg" alt="Alt Text">
-        <img class="image" src="{{site/url}}/assets/images/tarek 2.jpg" alt="Alt Text">
-        <img class="image" src="{{site/url}}/assets/images/tarek 3.jpg" alt="Alt Text">
-    </div>
-</div>
-
+![Tarek1](assets/images/tarek 1.jpg "Tarek1")
+![Tarek2](assets/images/tarek 1.jpg "Tarek2")
+![Tarek3](assets/images/tarek 1.jpg "Tarek3")
+o
 ## K-Nearest Neighbour Classification
 
 
