@@ -16,46 +16,32 @@ description: THyroid hormones summary with different options
 
 
 
-
 ---
-
-
-
-
----
-
-## Side-by-side
-
-Like the [Medium](https://medium.com/) component.
-
-**Image** on the left and **Text** on the right:
-
 
 <div class="side-by-side">
     <div class="toleft">
-        <img class="image" src="tarek 1.jpg" alt="Alt Text">
-        <img class="image" src="tarek 2.jpg" alt="Alt Text">
-        <img class="image" src="tarek 3.jpg" alt="Alt Text">
-        <figcaption class="caption">Photo by John Doe</figcaption>
-    </div>
-
-    <div class="toright">
-        <p>biostatistics blog
-
-K-Nearest Neighbour Classification
-
-
-k-nearest neighbour classification for test set from training set.
- For each row of the test set, the k nearest (in Euclidean distance) training set vectors are found, and the classification is decided by majority vote, with ties broken at random.
-  If there are ties for the kth nearest vector, all candidates are included in the vote.
-</p>
+        <img class="image" src="{{site/url}}/assets/images/tarek 1.jpg" alt="Alt Text">
+        <img class="image" src="{{site/url}}/assets/images/tarek 2.jpg" alt="Alt Text">
+        <img class="image" src="{{site/url}}/assets/images/tarek 3.jpg" alt="Alt Text">
     </div>
 </div>
 
+## K-Nearest Neighbour Classification
+
+
+K-nearest neighbour classification for test set from training set.
+ For each row of the test set, the k nearest (in Euclidean distance) training set vectors are found, and the classification is decided by majority vote, with ties broken at random.
+  If there are ties for the kth nearest vector, all candidates are included in the vote.
+<!-- El Swr Tt3ml, kda ya Kiroooooooo -->
+ <img class="image" src="{{site/url}}/assets/images/bassam.jpg" alt="Alt Text">
+ <img class="image" src="{{site/url}}/assets/images/bassam2.jpg" alt="Alt Text">
+ <img class="image" src="{{site/url}}/assets/images/bassam3.jpg" alt="Alt Text">
+
+
 
 <div class="side-by-side">
     <div class="toleft">
-        <img class="image" src="bassam.jpg" alt="Alt Text">
+       
         <img class="image" src="bassam2.jpg" alt="Alt Text">
         <img class="image" src="bassam3.png" alt="Alt Text">
         <figcaption class="caption">Photo by John Doe</figcaption>
@@ -79,9 +65,9 @@ k-nearest neighbour classification for test set from training set.
 </div>
     <div class="side-by-side">
     <div class="toleft">
-        <img class="image" src="poline1.png " alt="Alt Text">
-        <img class="image" src="poline2.png" alt="Alt Text">
-        <img class="image" src="poline3.png" alt="Alt Text">
+        <img class="image" src="{{site/url}}/assets/images/poline1.png " alt="Alt Text">
+        <img class="image" src="{{site/url}}/assets/images/poline2.png" alt="Alt Text">
+        <img class="image" src="{{site/url}}/assets/images/poline3.png" alt="Alt Text">
         <figcaption class="caption">Photo by John Doe</figcaption>
     </div>
 </div>
